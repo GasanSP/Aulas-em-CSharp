@@ -1,0 +1,15 @@
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\bin\Debug\net6.0\Tipos de variaveis.exe
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\bin\Debug\net6.0\Tipos de variaveis.deps.json
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\bin\Debug\net6.0\Tipos de variaveis.runtimeconfig.json
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\bin\Debug\net6.0\Tipos de variaveis.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\bin\Debug\net6.0\ref\Tipos de variaveis.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\bin\Debug\net6.0\Tipos de variaveis.pdb
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.csproj.AssemblyReference.cache
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.AssemblyInfoInputs.cache
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.AssemblyInfo.cs
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.csproj.CoreCompileInputs.cache
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\obj\Debug\net6.0\ref\Tipos de variaveis.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.pdb
+C:\Workspace\Dev\Git\Aulas em CSharp\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.genruntimeconfig.cache
