@@ -5,7 +5,8 @@ public class Program
     public static void Main()
     {
 
-    WriteLine("Hello World!");
+       decimal numero = 1.12m;
+       WriteLine(numero);
 
     }
 

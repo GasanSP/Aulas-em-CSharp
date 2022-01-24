@@ -1,0 +1,15 @@
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\bin\Debug\net6.0\POOAbstração.exe
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\bin\Debug\net6.0\POOAbstração.deps.json
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\bin\Debug\net6.0\POOAbstração.runtimeconfig.json
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\bin\Debug\net6.0\POOAbstração.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\bin\Debug\net6.0\ref\POOAbstração.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\bin\Debug\net6.0\POOAbstração.pdb
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\obj\Debug\net6.0\POOAbstração.csproj.AssemblyReference.cache
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\obj\Debug\net6.0\POOAbstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\obj\Debug\net6.0\POOAbstração.AssemblyInfoInputs.cache
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\obj\Debug\net6.0\POOAbstração.AssemblyInfo.cs
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\obj\Debug\net6.0\POOAbstração.csproj.CoreCompileInputs.cache
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\obj\Debug\net6.0\POOAbstração.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\obj\Debug\net6.0\ref\POOAbstração.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\obj\Debug\net6.0\POOAbstração.pdb
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\POOAbstração\obj\Debug\net6.0\POOAbstração.genruntimeconfig.cache
