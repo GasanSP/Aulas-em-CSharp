@@ -1,4 +1,4 @@
-namespace POOAbstração.Models
+namespace POOExemplo.Models
 {
     public class Retangulo
     {

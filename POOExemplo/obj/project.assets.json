@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\Dev\\Git\\Aulas em CSharp\\Aulas-em-CSharp\\POOAbstração\\POOAbstração.csproj",
-      "projectName": "POOAbstração",
-      "projectPath": "C:\\Workspace\\Dev\\Git\\Aulas em CSharp\\Aulas-em-CSharp\\POOAbstração\\POOAbstração.csproj",
+      "projectUniqueName": "C:\\Workspace\\Dev\\Git\\Aulas em CSharp\\Aulas-em-CSharp\\POOExemplo\\POOExemplo.csproj",
+      "projectName": "POOExemplo",
+      "projectPath": "C:\\Workspace\\Dev\\Git\\Aulas em CSharp\\Aulas-em-CSharp\\POOExemplo\\POOExemplo.csproj",
       "packagesPath": "C:\\Users\\geniv\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\Dev\\Git\\Aulas em CSharp\\Aulas-em-CSharp\\POOAbstração\\obj\\",
+      "outputPath": "C:\\Workspace\\Dev\\Git\\Aulas em CSharp\\Aulas-em-CSharp\\POOExemplo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\geniv\\AppData\\Roaming\\NuGet\\NuGet.Config",

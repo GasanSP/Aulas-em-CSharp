@@ -1,0 +1,15 @@
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\bin\Debug\net6.0\Directory.exe
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\bin\Debug\net6.0\Directory.deps.json
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\bin\Debug\net6.0\Directory.runtimeconfig.json
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\bin\Debug\net6.0\Directory.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\bin\Debug\net6.0\ref\Directory.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\bin\Debug\net6.0\Directory.pdb
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\obj\Debug\net6.0\Directory.csproj.AssemblyReference.cache
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\obj\Debug\net6.0\Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\obj\Debug\net6.0\Directory.AssemblyInfoInputs.cache
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\obj\Debug\net6.0\Directory.AssemblyInfo.cs
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\obj\Debug\net6.0\Directory.csproj.CoreCompileInputs.cache
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\obj\Debug\net6.0\Directory.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\obj\Debug\net6.0\ref\Directory.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\obj\Debug\net6.0\Directory.pdb
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\Diretórios\obj\Debug\net6.0\Directory.genruntimeconfig.cache
