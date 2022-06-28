@@ -1,0 +1,15 @@
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\bin\Debug\net6.0\LerDiretórios.exe
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\bin\Debug\net6.0\LerDiretórios.deps.json
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\bin\Debug\net6.0\LerDiretórios.runtimeconfig.json
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\bin\Debug\net6.0\LerDiretórios.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\bin\Debug\net6.0\ref\LerDiretórios.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\bin\Debug\net6.0\LerDiretórios.pdb
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\obj\Debug\net6.0\LerDiretórios.csproj.AssemblyReference.cache
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\obj\Debug\net6.0\LerDiretórios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\obj\Debug\net6.0\LerDiretórios.AssemblyInfoInputs.cache
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\obj\Debug\net6.0\LerDiretórios.AssemblyInfo.cs
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\obj\Debug\net6.0\LerDiretórios.csproj.CoreCompileInputs.cache
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\obj\Debug\net6.0\LerDiretórios.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\obj\Debug\net6.0\ref\LerDiretórios.dll
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\obj\Debug\net6.0\LerDiretórios.pdb
+C:\Workspace\Dev\Git\Aulas em CSharp\Aulas-em-CSharp\LerDiretórios\obj\Debug\net6.0\LerDiretórios.genruntimeconfig.cache
